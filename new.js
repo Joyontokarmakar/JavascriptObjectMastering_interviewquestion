@@ -1,4 +1,6 @@
-//same type multiple object template
+// same type multiple object template
+// Purpose of new keyword:::::  class => object
+// to make object from class, so that  all objects property behaviour remain same.
 
 
 class person {
