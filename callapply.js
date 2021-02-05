@@ -58,6 +58,7 @@ const friendlyPerson = {
 
 
 //================================= applying apply
+
 normalPerson.chargeBill.apply(heroPerson, [3000, 300, 30]);
 normalPerson.chargeBill.apply(heroPerson, [1000, 50, 10]);
 console.log("Hero Person Salary     : "+ heroPerson.salary);
